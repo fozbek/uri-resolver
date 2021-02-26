@@ -1,7 +1,7 @@
-DomCrawler Component
+UriResolver Class
 ====================
 
-The DomCrawler component eases DOM navigation for HTML and XML documents.
+Uri Resolver class that taken from symfony/dom-crawler
 
 Resources
 ---------

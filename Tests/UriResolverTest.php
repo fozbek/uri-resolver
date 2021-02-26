@@ -12,7 +12,7 @@
 namespace Symfony\Component\DomCrawler\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Symfony\Component\DomCrawler\UriResolver;
+use Fozbek\UriResolver;
 
 class UriResolverTest extends TestCase
 {
